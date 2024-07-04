@@ -7,7 +7,7 @@ function acessar(){
         alert('Favor preencher todos os campos');
     }else{
         //alert('Campos preenchidos com sucesso');
-        window,location.hnef = 'cadastro.html';
+        window.location.href = 'cadastro.html';
     }
 
 }
