@@ -8,6 +8,8 @@ O projeto consiste em duas páginas principais:
 - Página de Cadastro (cadastro.html): Permite que os usuários insiram seus nomes e os armazenem em uma lista.
  
 - Página de Login (login.html): Permite que os usuários insiram seu e-mail e senha para acessar a página de cadastro.
+
+<img src= "cadastro.png">
  
 ## Funcionalidade dos códigos JavaScript
 - Validação de login:
